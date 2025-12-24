@@ -1,13 +1,15 @@
 import { ExternalLinkIcon, GithubIcon } from "lucide-react";
+import ecommerceImg from "../assets/ecommerce.webp";
+
 
 const projects = [
   {
     key: "1",
-    title: "Portfolio Website",
-    imageSrc: "public/ecommerce.webp",
+    title: "Ecommerece Website",
+    imageSrc: ecommerceImg,
     description:
-      "This is an incomplete project. I uploaded it because I wanted to learn it.",
-    demo: "react-e-commerce-website-three.vercel.app",
+      "An e-commerce website built with React.js showcasing product listings, cart management, and responsive design. Deployed on Vercel with a smooth user experience.",
+    demo: "https://react-e-commerce-website-three.vercel.app/",
     source: "https://github.com/rohitjaiswal975/React-ECommerce-Website.git",
   },
 ];
