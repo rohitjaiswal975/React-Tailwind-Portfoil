@@ -44,7 +44,7 @@ const ProjectsSection = () => {
                     <a href={project.demo} target="blank">
                       <ExternalLinkIcon size={30} />
                     </a>
-                    <a href={project.source}>
+                    <a href={project.source} target="blank">
                       <GithubIcon size={30} />
                     </a>
                   </div>
