@@ -7,8 +7,8 @@ const projects = [
     imageSrc: "public/ecommerce.webp",
     description:
       "This is an incomplete project. I uploaded it because I wanted to learn it.",
-    demo: "https://github.com/rohitjaiswal975/Uncomplete-Projects.git",
-    source: "https://github.com/rohitjaiswal975/Uncomplete-Projects.git",
+    demo: "react-e-commerce-website-three.vercel.app",
+    source: "https://github.com/rohitjaiswal975/React-ECommerce-Website.git",
   },
 ];
 
